@@ -1,0 +1,47 @@
+
+body {
+	color:purple;
+    background-color #d8da3d;
+     }
+
+
+ ul.navbar {
+    list-stule-type: none;
+    podding: 0;
+    morgin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em,
+    width  9em;
+     }
+
+ ul.navbar li{
+    background: white;
+    morgin: 0.5em 0;
+    podding: 0.3em;
+    border-right: 1em solid black }
+ ul.navbar a  {  
+   text-decoration:  none }
+ a:link {
+   color: red  }
+ a:visited {
+   color: purple }
+
+ address {
+ morgin-top: 1em;
+ podding-top: 1em;
+ border-top: thin dotted }
+h1{
+ 
+  font-family:Helvetica,
+  color: blue;
+  }
+h2{
+  color:red;
+  }
+h3{
+  color:green;
+  }
+h6{
+   color:pinkish;
+   }  
